@@ -1,5 +1,14 @@
 # 	Strategy Shopping
-Este mini proyecto escrito en Java, nos demuestra como se aplica el patron de diseno Strategy.
+
+**Facultad de Ingeniería UACH
+Modelado de Requerimientos del Software
+Jose Ignacio Flores Belmares 235743**
+
+
+# Patron de diseño Strategy
+
+Este mini proyecto escrito en Java, nos demuestra como se aplica el patron de diseño Strategy.
+
 El cual contiene tres participantes:
 
 **Contexto**: Es el elemento que usa los algoritmos, por tanto, delega en la jerarquía de estrategias. Configura una estrategia concreta mediante una referencia a la estrategia necesaria. Puede definir una interfaz que permita a la estrategia el acceso a sus datos en caso de que fuese necesario el intercambio de información entre el contexto y la estrategia. En caso de no definir dicha interfaz, el contexto podría pasarse a sí mismo a la estrategia como parámetro.
