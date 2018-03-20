@@ -1,8 +1,8 @@
 # 	Strategy Shopping
 
-**Facultad de Ingeniería UACH
-Modelado de Requerimientos del Software
-Jose Ignacio Flores Belmares 235743**
+**Facultad de Ingeniería UACH**
+**Modelado de Requerimientos del Software**
+**Jose Ignacio Flores Belmares 235743**
 
 
 # Patron de diseño Strategy
